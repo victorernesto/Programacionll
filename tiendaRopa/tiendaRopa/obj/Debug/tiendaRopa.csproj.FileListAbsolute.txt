@@ -1,0 +1,13 @@
+C:\Users\50376\Documents\programacion 2\Proyecto\tiendaRopa\tiendaRopa\bin\Debug\tiendaRopa.exe.config
+C:\Users\50376\Documents\programacion 2\Proyecto\tiendaRopa\tiendaRopa\bin\Debug\tiendaRopa.exe
+C:\Users\50376\Documents\programacion 2\Proyecto\tiendaRopa\tiendaRopa\bin\Debug\tiendaRopa.pdb
+C:\Users\50376\Documents\programacion 2\Proyecto\tiendaRopa\tiendaRopa\obj\Debug\tiendaRopa.csproj.AssemblyReference.cache
+C:\Users\50376\Documents\programacion 2\Proyecto\tiendaRopa\tiendaRopa\obj\Debug\tiendaRopa.login.resources
+C:\Users\50376\Documents\programacion 2\Proyecto\tiendaRopa\tiendaRopa\obj\Debug\tiendaRopa.Properties.Resources.resources
+C:\Users\50376\Documents\programacion 2\Proyecto\tiendaRopa\tiendaRopa\obj\Debug\tiendaRopa.Form1.resources
+C:\Users\50376\Documents\programacion 2\Proyecto\tiendaRopa\tiendaRopa\obj\Debug\tiendaRopa.csproj.GenerateResource.cache
+C:\Users\50376\Documents\programacion 2\Proyecto\tiendaRopa\tiendaRopa\obj\Debug\tiendaRopa.csproj.CoreCompileInputs.cache
+C:\Users\50376\Documents\programacion 2\Proyecto\tiendaRopa\tiendaRopa\obj\Debug\tiendaRopa.exe
+C:\Users\50376\Documents\programacion 2\Proyecto\tiendaRopa\tiendaRopa\obj\Debug\tiendaRopa.pdb
+C:\Users\50376\Documents\programacion 2\Proyecto\tiendaRopa\tiendaRopa\obj\Debug\tiendaRopa.view.fmTablaProd.resources
+C:\Users\50376\Documents\programacion 2\Proyecto\tiendaRopa\tiendaRopa\obj\Debug\tiendaRopa.view.fmTablaUsu.resources
